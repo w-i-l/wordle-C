@@ -249,12 +249,7 @@ int solve(int number){
 
         make_struct(given_word,best_word,structure);
         check_letters(all_words,&no_of_words,structure);
-        //clear_array(all_words,11454);
-//        if(no_of_words < 10){
-//            printf("Cuvinte\n");
-//            display_good_words(all_words);
-//
-//        }
+
         find_best_world(all_words,11454);
 
 //        printf("STRUCTURA: %s \n",structure);
