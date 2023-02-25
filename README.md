@@ -21,4 +21,4 @@
     <li>And keeps looping the step 2. and 3. until the pattern is fully green.</li>
 </ol>
 
-<p>For more details about the theory I suggest this amazing YouTube video<a hred='https://www.youtube.com/watch?v=v68zYyaEmEA&t=1s&ab_channel=3Blue1Brown'> Solving Wordle</a>.</p>
+<p>For more details about the theory I suggest this amazing YouTube video<a href='https://www.youtube.com/watch?v=v68zYyaEmEA&t=1s&ab_channel=3Blue1Brown'> Solving Wordle</a>.</p>
